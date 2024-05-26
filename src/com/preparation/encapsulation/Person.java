@@ -2,6 +2,12 @@ package com.preparation.encapsulation;
 
 public class Person {
     // Private fields (data)
+    /*
+        **Encapsulation** is an object-oriented programming principle that involves bundling data (attributes)
+        * and methods (functions) that operate on the data into a single unit, usually a class.
+        * It restricts direct access to some of the object's components, typically through access modifiers,
+        * to protect the object's integrity and ensure controlled interaction with its data.
+    */
     private String name;
     private int age;
     private String address;
